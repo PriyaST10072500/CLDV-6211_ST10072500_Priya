@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\MVC_IceTask 1_ST10072500_Priya.props" />
+</Project>
